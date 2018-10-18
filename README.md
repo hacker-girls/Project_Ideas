@@ -10,4 +10,3 @@ What kind of projects is everyone interested in? Feel free to throw out general 
 - Twitter API analysis?
 
 ## Datasets
-
