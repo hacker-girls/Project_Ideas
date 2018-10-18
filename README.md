@@ -3,4 +3,11 @@
 
 What kind of projects is everyone interested in? Feel free to throw out general or specific stuff, just to get an idea of where everyone stands.
 
-- Twitter sentiments analysis
+## Resources
+- https://github.com/sahat/hackathon-starter : quick front end guides! 
+
+## Ideas
+- Twitter API analysis?
+
+## Datasets
+
