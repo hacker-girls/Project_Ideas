@@ -27,6 +27,8 @@ What kind of projects is everyone interested in? Feel free to throw out general 
 	
 - I also like the idea of building off the adventure theme, and of doing something related to pollution/climate change (super relevant topic right now).  I have experience with using map apis/JS frameworks and building interactive maps so that's something I would be super interested in doing!  Related to Twitter sentiments we could do something like mapping sentiments about climate change in different areas or how often climate change is talked about around the world, or I like the idea of doing predictions of pollution over time -maddie
 
+-Mobile App or website to log/see environmental impacts--kind of like carbon footprint test sites
+
 ## Datasets
 - https://theysaidso.com/api/   (random but could be fun)
 - http://numbersapi.com/#42		(again random but could be fun)
