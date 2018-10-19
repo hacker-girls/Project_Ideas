@@ -24,6 +24,8 @@ What kind of projects is everyone interested in? Feel free to throw out general 
 	> Image processing for images of natural places/things
 	> "Choose your own adventure" type quesions and output a national park or country suggestion to visit
 	> Use NPS API: take in "ideal" parts of a vacation and output: National Park, suggested camping, news articles related to the park, suggested itinerary, permits needed, etc.
+	
+- I also like the idea of building off the adventure theme, and of doing something related to pollution/climate change (super relevant topic right now).  I have experience with using map apis/JS frameworks and building interactive maps so that's something I would be super interested in doing!  Related to Twitter sentiments we could do something like mapping sentiments about climate change in different areas or how often climate change is talked about around the world, or I like the idea of doing predictions of pollution over time -maddie
 
 ## Datasets
 - https://theysaidso.com/api/   (random but could be fun)
