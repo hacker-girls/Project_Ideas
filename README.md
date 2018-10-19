@@ -20,6 +20,11 @@ What kind of projects is everyone interested in? Feel free to throw out general 
   
 - twitter: (i dont have developer account so no clue if this is how it works) web app finds biggest community issues by using nlp for tweets that were sent close by to user? Uses key words like: wish, fix, problem, etc. idk
 
+- I like the theme of the hackathon - Adventure. Maybe we could go along that theme? Not sure how yet, I'll keep thinking of ideas for a mobile app
+	> Image processing for images of natural places/things
+	> "Choose your own adventure" type quesions and output a national park or country suggestion to visit
+	> Use NPS API: take in "ideal" parts of a vacation and output: National Park, suggested camping, news articles related to the park, suggested itinerary, permits needed, etc.
+
 ## Datasets
 - https://theysaidso.com/api/   (random but could be fun)
 - http://numbersapi.com/#42		(again random but could be fun)
